@@ -44,8 +44,9 @@
     "summary": "Die Website ist modern und professionell gestaltet und gehört zu einem echten lokalen Unternehmen in der Schweiz.",
     "industry": "Bäckerei",
     "category": "Bad Webdesign",
-    "status": "pending",
-    "createdAt": "2026-03-31T16:30:20.799Z"
+    "status": "rejected",
+    "createdAt": "2026-03-31T16:30:20.799Z",
+    "updatedAt": "2026-03-31T17:49:13.521Z"
   },
   {
     "id": "a2839483-6d9b-4857-acae-dae47bc36ebe",
@@ -68,8 +69,9 @@
     "summary": "Die Website von Beck Bossard ist modern gestaltet und repräsentiert ein lokales Schweizer Unternehmen mit physischem Standort.",
     "industry": "Bäckerei",
     "category": "Bad Webdesign",
-    "status": "pending",
-    "createdAt": "2026-03-31T16:30:11.343Z"
+    "status": "rejected",
+    "createdAt": "2026-03-31T16:30:11.343Z",
+    "updatedAt": "2026-03-31T17:49:11.977Z"
   },
   {
     "id": "6f72b6be-3804-455c-af48-e29586a62906",
